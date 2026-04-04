@@ -11,11 +11,7 @@ Tools: VS Code, Git, Composer, DBeaver
 
 ## Projects:
 
-✅ Digital Attendance Roster (PHP, HTML, CSS, SQLlite).
-
-🔨 Portfolio Web Page (HTML, CSS, JavaScript, JSON).
-
-Learning: JavaScript → Next: React, NodeJS
+✅ Projects are pinned, and I’ll also create a showcase on my [Portfolio Page](URL).
 
 ## Fun Facts:
 
