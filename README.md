@@ -9,12 +9,12 @@ Tools: VS Code, Git, Composer, DBeaver
 
 ## Projects:
 
-✅ Digital Attendance Roster (PHP, HTML, CSS, SQLlite)
-🔨 Portfolio Web Page (HTML, CSS, JavaScript, JSON)
+✅ Digital Attendance Roster (PHP, HTML, CSS, SQLlite).
+🔨 Portfolio Web Page (HTML, CSS, JavaScript, JSON).
 
 Learning: JavaScript → Next: React, NodeJS
 
 ++Fun Facts:
 
-• Top Anime: Sword Art Online, Re:Zero, Hunter X Hunter, The Eminence in the Shadow, Jujutsu Kaisen
-• Hobbies: Gym, Anime, Building stuff
+• Top Anime: Sword Art Online, Re:Zero, Hunter X Hunter, The Eminence in the Shadow, Jujutsu Kaisen.
+• Hobbies: Gym, Anime, Building stuff.
