@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm [Jens](URL), a developer based in Germany.
+I'm [Jens](https://github.com/JensBernhardt), a developer based in Germany.
 Certified application developer since June 26. I build practical web apps and improve my programming skills every day.
 
 My skills and stuff you'll see soon on my [Portfolio Page](URL).
