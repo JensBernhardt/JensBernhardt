@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 Tech Used: PHP, HtmL, CSS, SQLLite
 
-Tools: vsCode, DBeaver
+Tools: vsCode, DBeaver, git, composer
 
 - 🔭 Projekt there are mostly done ...
 
@@ -41,7 +41,7 @@ Tools: vsCode, DBeaver
 
 Tech Used: HtmL, CSS, JavaScript
 
-Tools: vsCode 
+Tools: vsCode, git
 
 _____________________________________________________________________________________________________________________________________________
 
