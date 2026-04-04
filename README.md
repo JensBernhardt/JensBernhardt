@@ -5,7 +5,7 @@ Certified application developer since June 26, 2025. I build practical web apps 
 
 My skills and stuff you'll see soon on my [Portfolio Page](URL).
 
-Tech stack: PHP, HTML, CSS, JavaScript, SQLlite
+Tech stack: PHP, HTML, CSS, JavaScript, SQLite
 
 Tools: VS Code, Git, Composer, DBeaver
 
