@@ -31,6 +31,7 @@ Tech Used: PHP, HtmL, CSS, SQLLite
 
 Tools: vsCode, DBeaver, git, composer
 
+##
 
 - 🔭 I’m currently working on ...
 
@@ -51,6 +52,10 @@ ________________________________________________________________________________
 - 🌱 What I still want to learn...
 
 • React, NodeJS
+
+_____________________________________________________________________________________________________________________________________________
+
+## Connect:
 
 - 👯 I’m looking to collaborate on ...
 
