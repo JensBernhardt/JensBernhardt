@@ -37,7 +37,7 @@ Tools: vsCode, DBeaver, git, composer
 
 • Portfolio Web Page, (App)
 
-Tech Used: HtmL, CSS, JavaScript
+Tech Used: HtmL, CSS, JavaScript, json
 
 Tools: vsCode, git
 
