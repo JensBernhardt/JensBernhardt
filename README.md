@@ -31,9 +31,6 @@ Tech Used: PHP, HtmL, CSS, SQLLite
 
 Tools: vsCode, DBeaver, git, composer
 
-- 🔭 Projekt there are mostly done ...
-
-•  ----
 
 - 🔭 I’m currently working on ...
 
