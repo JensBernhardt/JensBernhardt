@@ -15,7 +15,7 @@ Tools: VS Code, Git, Composer, DBeaver
 
 Learning: JavaScript → Next: React, NodeJS
 
-++Fun Facts:
+## Fun Facts:
 
 • Top Anime: Sword Art Online, Re:Zero, Hunter X Hunter, The Eminence in the Shadow, Jujutsu Kaisen
 
