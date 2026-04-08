@@ -14,6 +14,6 @@ In addition, I always work on a lot of small projects that I don't publish becau
 
 Fun Facts:
 
-• Top Anime: Sword Art Online, Re:Zero, Hunter X Hunter, The Eminence in the Shadow, Jujutsu Kaisen
+• Top Anime: Sword Art Online, Re:Zero, Hunter X Hunter, The Eminence in the Shadow, Jujutsu Kaisen, Classroom of the Elite
 
 • Hobbies: Gym, Anime, Building stuff
